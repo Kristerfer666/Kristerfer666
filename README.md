@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=120&lines=Hi+I'm+Kris;Game+Dev+Loading...;Riverhand+In+Progress" />
+
 <h1 align="center">Hi 👋, I'm Kris</h1>
 <h3 align="center">noob on dev and looking forward to do game devs</h3>
 
